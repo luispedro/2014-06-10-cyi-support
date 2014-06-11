@@ -1,0 +1,2 @@
+echo $HOSTNAME
+touch f
